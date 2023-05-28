@@ -16,3 +16,7 @@ The fake items resource pack adds fake items into the game so items like paper c
 
 `"Misc"`<br>
 ![](https://raw.githubusercontent.com/NotPiny/MinecraftStuff/master/1.17.1/Resource%20packs/Utility/Fake%20items/assets/minecraft/optifine/cit/paper/misc.png)
+
+---
+`"temp"`<br>
+![](https://raw.githubusercontent.com/NotPiny/MinecraftStuff/master/1.17.1/Resource%20packs/Utility/Fake%20items/assets/minecraft/optifine/cit/paper/clock-solid.png)
